@@ -1,0 +1,19 @@
+section {
+	margin: 150px auto;
+	max-width: 500px;
+}
+
+section h1 {
+	font-size: 4em;
+	padding-bottom: 30px;
+}
+
+section input {
+	font-size: 1.8em;
+	padding: 5px 10px;
+}
+
+section span {
+	display: block;
+	font-size: 1.8em;
+}
